@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+    color: white;
+}
+.main-text{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:7px 3px grey;
+}
+h1 span{
+    color: rgb(61, 0, 117);
+}
+.card img{
+    height: 300px;
+}
+.in{
+    height: 400px;
+    background: url(image/icccccc2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ust img{
+width: 1295px;
+}
+.bilgi{
+    width: 81.3rem;
+}
+.footeralt ul li{
+list-style: none;
+
+}
+.footeralt img{
+    width: 50px;
+    height: 50px;
+}
